@@ -37,7 +37,6 @@ input {
 }
 
 
-
 button {
     font-size: 20px;
     font-weight: 600;
@@ -75,6 +74,8 @@ button {
     align-items: center;
     border-bottom: 2px solid #dbbade;
     border-right: 2px solid #dbbade;
+    color: #dbbade;
+    font-size: 120px;
 }
 
 .box:nth-child(3n) {
