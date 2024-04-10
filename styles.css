@@ -85,3 +85,12 @@ button {
 .box:nth-child(6) ~ .box {
     border-bottom: none;
 }
+
+.winner {
+    border-radius: 10px;
+    font-size: 30px;
+    color: #25405e;
+    margin: 20px;
+    padding: 20px;
+    background-color: #dbbade;
+}
